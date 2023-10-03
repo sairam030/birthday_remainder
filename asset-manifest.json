@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/birthday_remainder/static/css/main.8bee4867.css",
+    "main.js": "/birthday_remainder/static/js/main.f3d6b59e.js",
+    "index.html": "/birthday_remainder/index.html",
+    "main.8bee4867.css.map": "/birthday_remainder/static/css/main.8bee4867.css.map",
+    "main.f3d6b59e.js.map": "/birthday_remainder/static/js/main.f3d6b59e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.f3d6b59e.js"
+  ]
+}
